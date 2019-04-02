@@ -1,0 +1,9 @@
+<html>
+<title>new page</title>
+<head> this is first page</head>
+<body>
+<h1>My first PHP page</h1>
+<?php
+echo "Hello World!";
+?>
+</html>
